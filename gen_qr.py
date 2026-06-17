@@ -1,3 +1,4 @@
+# pip install qrcode pillow in terminal (if you have a python3.14 use "pip3")
 import qrcode
 
 answer = input("Enter the data to encode in the QR code:  ")
